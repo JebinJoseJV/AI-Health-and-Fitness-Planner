@@ -1,9 +1,13 @@
 # AI-Health-and-Fitness-Planner
 
-
+# AI Health & Fitness Planner
 
 ## Overview
+[🔗 Try the Live App](https://ai-health-and-fitness-planner-ary6u3r82eyvdg6quziziw.streamlit.app/)
 AI Health & Fitness Planner is a Streamlit-based web application that provides personalized dietary and fitness plans based on user inputs such as age, weight, height, activity level, and fitness goals. The application leverages Google's Gemini AI model to generate customized recommendations and answer user queries related to health and fitness.
+
+
+
 
 ## Features
 - 📋 **Personalized Dietary Plan**: Generates meal plans considering dietary preferences and health goals.
