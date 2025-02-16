@@ -1,6 +1,6 @@
 # AI-Health-and-Fitness-Planner
 
-# AI Health & Fitness Planner
+
 
 ## Overview
 [🔗 Try the Live App](https://ai-health-and-fitness-planner-ary6u3r82eyvdg6quziziw.streamlit.app/)
