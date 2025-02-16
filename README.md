@@ -19,8 +19,8 @@ Ensure you have Python installed (>=3.8). You will also need the required Python
 ### Steps
 ```sh
 # Clone the repository
-git clone https://github.com/your-repo/ai-health-fitness-planner.git
-cd ai-health-fitness-planner
+git clone [https://github.com/your-repo/ai-health-fitness-planner](https://github.com/JebinJoseJV/AI-Health-and-Fitness-Planner).git
+
 
 # Install dependencies
 pip install -r requirements.txt
